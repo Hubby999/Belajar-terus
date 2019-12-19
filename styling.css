@@ -5,6 +5,12 @@ body{
 
 }
 
+header{
+    text-align: center;
+    background-color: chocolate;
+    padding: 15px;
+}
+
 footer{
     background-color: chocolate;
     text-align: center;
